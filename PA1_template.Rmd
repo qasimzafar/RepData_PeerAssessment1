@@ -1,5 +1,7 @@
 # PLEASE IGNORE THIS FILE AND GRADE THE Project1.Rmd, Project1.md and Project1.html FILES:
 
+I renamed the default project template file, here are the links:
+
 - [Project1.Rmd](https://github.com/qasimzafar/RepData_PeerAssessment1/blob/master/Project1.Rmd)
 - [Project1.md](https://github.com/qasimzafar/RepData_PeerAssessment1/blob/master/Project1.md)
 - [Project1.html](https://github.com/qasimzafar/RepData_PeerAssessment1/blob/master/Project1.html)
